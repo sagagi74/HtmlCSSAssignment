@@ -26,7 +26,7 @@ Live Site Link
 
 https://sagagi74.github.io/HtmlCSSAssignment/
 
-
+![Site Image](assets/images/HTML.JPG)
 
 
 
